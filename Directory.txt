@@ -1,0 +1,85 @@
+个人中心 我收藏的店铺						collect-shop 1									
+我的店铺 首页  更多 下拉						shop-index		1		
+我的店铺 首页 排序下拉层				
+我的店铺 首页
+我的订单 首页							order-home  1
+我的订单 销售订单 待处理						order-sale-pending  1	
+我的订单 销售订单 订单详情						order-sale-details  1
+我的订单 销售订单 退款单						order-sale-refund   1
+我的订单 销售订单 未付款						order-sale-non-pay  1
+我的订单 销售订单 已关闭						order-sale-closed   1
+我的订单 销售订单 已完成						order-sale-complete 1
+我的订单 自购订单 订单详情						order-self-details  1
+我的订单 自购订单 无						order-self-non  1
+我的订单 自购订单							order-self  1
+我的钱包 绑定银行卡 验证手机号					bank-test-mobile    1
+我的钱包 常见问题							wallet-faq  1
+我的钱包 密码管理 设置支付密码					wallet-set-pwd  1
+我的钱包 密码管理 添加新银行卡 设置支付密码				addCard-set-pwd   1
+我的钱包 密码管理 添加新银行卡 验证支付密码				addCard-test-pwd  1
+我的钱包 密码管理 添加新银行卡 再次输入设置支付密码			addCard-re-pwd    1 
+我的钱包 密码管理 验证手机号						wallet-test-mobile  1
+我的钱包 密码管理 验证支付密码					test-pay-pwd   1
+我的钱包 密码管理 再次填写密码并确认					wallet-conform-pwd    1
+我的钱包 密码管理							wallet-manager-pwd   1
+我的钱包 钱包设置							wallet-set	1
+我的钱包 首页							wallet-home   1
+我的钱包 提现详情							wallet-get-cash   1
+我的钱包 添加银行卡 放弃绑定银行卡弹层					exit-binding-pop
+我的钱包 添加银行卡 选择银行卡弹层					choose-card-pop
+我的钱包 添加银行卡							wallet-add-card   1
+我的钱包 无银行卡							wallet-non-card   1
+我的钱包 银行卡 详情						wallet-card-details   1
+我的钱包 银行卡							wallet-card   1
+我的钱包 余额 交易记录						wallet-balance-record  1
+我的钱包 余额 提现 弹层						balance-get-pop
+我的钱包 余额 提现 无银行卡						balance-get-non    1
+我的钱包 余额 提现							wallet-balance-get	1
+我的钱包 余额提现 验证支付密码					balance-test-pwd      1
+我的收益 分销记录							sale-record   1
+我的收益 名词解释							sale-faq    1
+我的收益 收支明细 全部账单						earnings-bill  1
+我的收益 收支明细 无收入						earnings-non   1
+我的收益 首页							earnings-home  1
+我的消息								my-message   1
+我的资料 基本信息 选择区 弹层						basic-info
+我的资料 基本信息 选择省 弹层						basic-info
+我的资料 基本信息 选择市 弹层						basic-info
+我的资料 基本信息							basic-info   1
+我的资料 上传修改头像						basic-info
+我的资料 首页							info-home  1
+我的资料 我的昵称							info-nickname    1
+我的资料 我的收货地址管理 编辑收货信息					info-edit-msg    1   
+我的资料 我的收货地址管理 新增收货地址					info-new-address   1   
+我的资料 我的收货地址管理						info-mgr-address   1
+
+
+我的店铺 商品管理 组管理						product-group-mgr    1
+我的店铺 商品管理 首页						product-home    1
+我的店铺 商品管理 首页 已分组						product-home-grouping   1
+我的店铺 商品管理 首页 已分组 删除分组弹层				pop
+我的店铺 商品管理 首页 新建分组					pop
+我的店铺 商品管理 首页 商品状态下拉					pop	
+我的店铺 商品管理 首页 更多下拉					pop
+我的店铺 商品管理 首页 更多管理下拉					pop
+我的店铺 商品管理 首页 单件商品分组					pop
+我的店铺 商品管理 批量编辑状态					product-batch-edit  1
+我的店铺 商品管理 单件商品编辑 下架商品					product-edit-out    1			
+我的店铺 商品管理 单件商品编辑 非下架商品				product-edit-in	    1		
+我的店铺 店铺预览							shop-preview    1			
+我的店铺 店铺设置 QQ						shop-setting-qq   1
+我的店铺 店铺设置 选择头像						shop-setting-head  1
+我的店铺 店铺设置 选择店招图像					shop-setting-logo  1
+我的店铺 店铺设置 微信						shop-setting-weixin  1	
+我的店铺 店铺设置 微博						shop-setting-weibo  1
+我的店铺 店铺设置 首页						shop-setting-home
+我的店铺 店铺设置 联系电话						shop-setting-tel   1
+我的店铺 店铺设置 店铺名称设置					shop-setting-name  1	
+我的店铺 店铺设置 店铺描述填写					shop-edit-desc   1
+我的店铺 店铺设置 店铺二维码						shop-ecode    1
+我的店铺 店铺设置 担保交易 已开启					shop-assure-on	 1
+我的店铺 店铺设置 担保交易 未开启					shop-assure-off  1
+我的订单 自购订单 发表商品评论					order-self-comment
+aaa 11
+bbb
+
